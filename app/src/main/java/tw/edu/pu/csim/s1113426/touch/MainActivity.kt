@@ -153,7 +153,6 @@ fun DrawPath() {
                     else -> false
                 }
             }
-
     ){
         Canvas(modifier = Modifier.fillMaxSize()) {
             val path = Path()
